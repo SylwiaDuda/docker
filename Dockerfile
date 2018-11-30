@@ -1,3 +1,4 @@
-FROM httpd:latest 
-EXPOSE 80
+FROM java:8 
 
+RUN .java
+CMD 
